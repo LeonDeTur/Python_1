@@ -6,6 +6,7 @@
 # - 6 -> да
 # - 7 -> да
 # - 1 -> нет
+
 print("Please, enter integer number drom 1 to 7 to get the name of the week day.")
 week_day = ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"]
 num = round(int(input()))
