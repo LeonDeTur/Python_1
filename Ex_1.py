@@ -7,7 +7,7 @@
 # - 7 -> да
 # - 1 -> нет
 
-print("Please, enter integer number drom 1 to 7 to get the name of the week day.")
+print("Please, enter integer number from 1 to 7 to get the name of the week day.")
 week_day = ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"]
 num = round(int(input()))
 if 1 <= num <= 5:
